@@ -1,0 +1,23 @@
+export const nameBand = 'IRACUNDOS';
+export let nameSongs = [
+	"TE LO PIDO DE RODILLAS", /*1*/
+	"Y TE HAS QUEDADO SOLA", /*2*/
+	"PUERTO MONTT", /*3*/
+	" ES LA LLUVIA QUE CAE", /*4*/
+	"TU CON ÉL", /*5*/
+	"O ME VOY O ME QUEDO LOCO", /*6*/
+	"CON LA MISMA MONEDA", /*7*/
+	"INFIDELIDAD", /*8*/
+	" CIERRA LOS OJOS", /*9*/
+	"SI NO SOY ASI", /*10*/
+	"LA LLUVIA TERMINÓ", /*11*/
+	"CHIQUILINA", /*12*/
+	"SOY UN MAMARRACHO", /*13*/
+	"MARIONETAS DE CARTÓN", /*14*/
+	"LAS PUERTAS DEL OLVIDO", /*15*/
+	"APRÓNTATE A VIVIR", /*16*/
+	"SERÁ PORQUE TE AMO", /*17*/
+	"DIME QUÉ ESTÁS HACIENDO AQUÍ ", /*18*/
+	"ME VOY O ME QUEDO", /*19*/
+	"AQUEL NIÑO DE LA ESCOBA", /*20*/
+]
